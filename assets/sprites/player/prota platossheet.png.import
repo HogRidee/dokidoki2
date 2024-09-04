@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cfv5h5ibsnsxh"
-path="res://.godot/imported/Prota caminando.png-7b403083c92be32b902631b331b9fff2.ctex"
+uid="uid://c0a0s0ktgtl1s"
+path="res://.godot/imported/prota platossheet.png-5dd45f68a24e0263434e41ef0ae7adc5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/Prota caminando.png"
-dest_files=["res://.godot/imported/Prota caminando.png-7b403083c92be32b902631b331b9fff2.ctex"]
+source_file="res://assets/sprites/player/prota platossheet.png"
+dest_files=["res://.godot/imported/prota platossheet.png-5dd45f68a24e0263434e41ef0ae7adc5.ctex"]
 
 [params]
 

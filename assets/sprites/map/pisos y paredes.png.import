@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c0a0s0ktgtl1s"
-path="res://.godot/imported/prota platossheet.png-43be18e2041c8c384d27a989134cde18.ctex"
+uid="uid://bm72xlhx3rruw"
+path="res://.godot/imported/pisos y paredes.png-8d2ac53de1aafb27632af2cd3400ee19.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/prota platossheet.png"
-dest_files=["res://.godot/imported/prota platossheet.png-43be18e2041c8c384d27a989134cde18.ctex"]
+source_file="res://assets/sprites/map/pisos y paredes.png"
+dest_files=["res://.godot/imported/pisos y paredes.png-8d2ac53de1aafb27632af2cd3400ee19.ctex"]
 
 [params]
 

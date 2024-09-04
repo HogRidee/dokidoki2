@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bmchvv1eyi4kp"
-path="res://.godot/imported/Prota parado-sheet.png-6446d2c85300f42db0ecedd64490e3f1.ctex"
+uid="uid://cfv5h5ibsnsxh"
+path="res://.godot/imported/Prota caminando.png-0b6430bc39c87552236b32cae03e88cf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/Prota parado-sheet.png"
-dest_files=["res://.godot/imported/Prota parado-sheet.png-6446d2c85300f42db0ecedd64490e3f1.ctex"]
+source_file="res://assets/sprites/player/Prota caminando.png"
+dest_files=["res://.godot/imported/Prota caminando.png-0b6430bc39c87552236b32cae03e88cf.ctex"]
 
 [params]
 
