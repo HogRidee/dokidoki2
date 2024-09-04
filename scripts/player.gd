@@ -1,6 +1,7 @@
 extends CharacterBody2D
 
 var SPEED = 300
+@onready var animated_sprite = $AnimatedSprite2D
 
 func _physics_process(delta):
 	var input_vector = Vector2.ZERO
@@ -9,6 +10,8 @@ func _physics_process(delta):
 	input_vector = input_vector.normalized()
 	if input_vector:
 		velocity = input_vector * SPEED
+		animated_sprite.play("walk_down")
 	else:
 		velocity = input_vector
+		animated_sprite.play("idle")
 	move_and_slide()
