@@ -10,7 +10,7 @@ func _physics_process(delta):
 	input_vector = input_vector.normalized()
 	if input_vector:
 		velocity = input_vector * SPEED
-		animated_sprite.play("walk_down")
+		animated_sprite.play("walk_dishes")
 	else:
 		velocity = input_vector
 		animated_sprite.play("idle")

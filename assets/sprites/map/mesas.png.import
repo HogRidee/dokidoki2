@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bm72xlhx3rruw"
-path="res://.godot/imported/pisos y paredes.png-8d2ac53de1aafb27632af2cd3400ee19.ctex"
+uid="uid://gl2c2dkc80xm"
+path="res://.godot/imported/mesas.png-348ef53e83401131e2a4a8799326275d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/map/pisos y paredes.png"
-dest_files=["res://.godot/imported/pisos y paredes.png-8d2ac53de1aafb27632af2cd3400ee19.ctex"]
+source_file="res://assets/sprites/map/mesas.png"
+dest_files=["res://.godot/imported/mesas.png-348ef53e83401131e2a4a8799326275d.ctex"]
 
 [params]
 
