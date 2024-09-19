@@ -443,9 +443,8 @@ animations = [{
 "speed": 20.0
 }]
 
-[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_s4ulc"]
-radius = 25.0
-height = 158.0
+[sub_resource type="CircleShape2D" id="CircleShape2D_a1p07"]
+radius = 15.0333
 
 [node name="Player" type="CharacterBody2D"]
 script = ExtResource("1_l6oba")
@@ -455,4 +454,5 @@ sprite_frames = SubResource("SpriteFrames_qxl8q")
 animation = &"walk_dishes"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-shape = SubResource("CapsuleShape2D_s4ulc")
+position = Vector2(-3, 70)
+shape = SubResource("CircleShape2D_a1p07")
